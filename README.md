@@ -1,2 +1,2 @@
-# Botdiscord
+# ZeneoBot
 
