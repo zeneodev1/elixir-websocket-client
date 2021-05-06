@@ -1,2 +1,2 @@
-# ZeneoBot
+ZeneoBot
 
